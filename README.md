@@ -5,7 +5,8 @@ Implementing the function of ftp using C++
 
 IDE：Clion
 
-文件说明
+文件说明：
+
 udp/: 使用udp进行简单小型数据的传输,包括服务端和客户端
 
 client/: tcp客户端实现

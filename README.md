@@ -1,5 +1,5 @@
 # ftp
-Implementing the function of ftp using C++
+Implementing the function of ftp using C
 
 运行环境: Ubuntu16.04
 
